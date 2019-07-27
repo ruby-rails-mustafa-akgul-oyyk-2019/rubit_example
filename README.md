@@ -1,24 +1,5 @@
-# README
+# Description
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is related to [Gün - 7](https://github.com/boratanrikulu/oyk_2019_yaz_ruby_rails/blob/master/_data/gun_7.md) and [Gün - 8](https://github.com/boratanrikulu/oyk_2019_yaz_ruby_rails/blob/master/_data/gun_8.md).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can find other examples and explanations(These are Turkish.) from [here](https://github.com/boratanrikulu/oyk_2019_yaz_ruby_rails).
